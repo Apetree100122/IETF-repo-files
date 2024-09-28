@@ -1,1 +1,3 @@
-_extends: ietf/terminology
+_ extends:
+ietf / 
+terminology
